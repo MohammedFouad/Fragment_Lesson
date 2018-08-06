@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lesson Frag</string>
+
+        <string name="text">Welcome to Fragment</string>
+
+        <string name="text1">Welcome to Fragment1</string>
+        <string name="go_fragment1">Go to Fragment 1</string>
+
+        <string name="text2">Welcome to Fragment2</string>
+        <string name="go_fragment2">Go to Fragment 2</string>
+
+        <string name="text3">Welcome to Fragment3</string>
+        <string name="go_fragment3">Go to Fragment 3</string>
+
+        <string name="text4">Welcome to Fragment4</string>
+        <string name="go_fragment4">Go to Fragment 4</string>
+
+        <string name="text_second">This is the SecondActivity Layout</string>
+
+
+
+</resources>

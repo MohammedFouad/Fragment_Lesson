@@ -1,9 +1,11 @@
-package com.app.smart.lessonfrag;
+package com.app.smart.lessonfrag.Activities;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+
+import com.app.smart.lessonfrag.R;
 
 public class SecondActivity extends AppCompatActivity{
 
